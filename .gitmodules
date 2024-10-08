@@ -1,6 +1,3 @@
-[submodule "backend-2nd-LawlessZone"]
-	path = backend-2nd-LawlessZone
-	url = https://github.com/woorifisa-service-dev-3rd/backend-2nd-LawlessZone.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/woorifisa-service-dev-3rd/backend-2nd-LawlessZone.git
